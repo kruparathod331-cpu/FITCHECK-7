@@ -1,0 +1,23 @@
+# Secret environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies and caches
+node_modules/
+**/node_modules/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Build output
+dist/
+build/
+.next/
+
+# Local databases and uploaded files
+*.db
+*.sqlite
+*.sqlite3
+uploads/
