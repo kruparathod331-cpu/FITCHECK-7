@@ -1,1 +1,1 @@
-# FitCheck Backend Application Package
+# Backend Tests Package
